@@ -23,7 +23,7 @@ body{
     color:var(--text);
     background:
         linear-gradient(rgba(0,0,0,.75),rgba(0,0,0,.75)),
-        url("your-image.jpg") center/cover no-repeat;
+        url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3Gq9qRV9U3ilNsrUPGj7obR9qkq52oeV0otIW5sZaA&s=10g") center/cover no-repeat;
     overflow:hidden;
 }
 
